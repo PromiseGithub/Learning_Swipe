@@ -1,0 +1,22 @@
+name: example
+description: A Flutter project for swipe_cards example.
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  firebase_core: "^0.7.0"
+  cloud_firestore: "^0.16.0"
+  swipe_cards:
+    path: ..
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
