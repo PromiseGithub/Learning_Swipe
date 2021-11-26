@@ -8,7 +8,7 @@ I use this project to learn how to implement swipe cards. I was also learning ho
 This project will be developed using Android Studio. Dart will be the programming language, git and Gitgub will be used for repository.
 
 ## **Useful Websites**
-GitHub link:[Promise's Github](https://github.com/PromiseGithub/CloudDB.git)
+GitHub link:[Promise's Github](https://github.com/PromiseGithub/Learning_Swipe.git)
 Youtube link[Youtube link](https://youtu.be/5BYTHg-o3ic)
 
 ## **Future Work**
