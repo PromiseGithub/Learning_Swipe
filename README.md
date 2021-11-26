@@ -12,5 +12,4 @@ GitHub link:[Promise's Github](https://github.com/PromiseGithub/CloudDB.git)
 Youtube link[Youtube link](https://youtu.be/5BYTHg-o3ic)
 
 ## **Future Work**
-I will have to make it error proof:
-wrong entry.
+I have to connect a firestore database to this and make fully functional.
